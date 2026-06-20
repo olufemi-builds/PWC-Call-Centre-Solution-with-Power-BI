@@ -174,7 +174,7 @@ Include screenshots or GIFs of your Power BI dashboard here:
 **Olufemi Olamoyegun**  
 Data Analyst | Power BI | SQL | Workforce & Business Analytics  
 
-[LinkedIn](https://www.linkedin.com/in/olufemi-olamoyegun) | [GitHub](https://github.com/https://olufemi-builds)
+[LinkedIn](https://www.linkedin.com/in/olufemi-olamoyegun) | [GitHub](https://github.com/olufemi-builds)
 
 ---
 
