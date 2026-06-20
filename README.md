@@ -3,8 +3,8 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-orange?logo=microsoftpowerbi&logoColor=white)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Microsoft%20Excel-Green?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Power Query](https://img.shields.io/badge/Power%20Query-Blue?logo=microsoft&logoColor=white)](https://powerquery.microsoft.com/)
-[![Repo Size](https://img.shields.io/github/repo-size/olufemiolamoyegun/Project---PWC-Call-Centre-Solution-with-Power-BI)](https://github.com/olufemiolamoyegun/Project---PWC-Call-Centre-Solution-with-Power-BI)
-[![Top Languages](https://img.shields.io/github/languages/top/olufemiolamoyegun/Project---PWC-Call-Centre-Solution-with-Power-BI)](https://github.com/olufemiolamoyegun/Project---PWC-Call-Centre-Solution-with-Power-BI)
+[![Repo Size](https://img.shields.io/github/repo-size/olufemi-builds/Project---PWC-Call-Centre-Solution-with-Power-BI)](https://github.com/olufemi-builds/Project---PWC-Call-Centre-Solution-with-Power-BI)
+[![Top Languages](https://img.shields.io/github/languages/top/olufemiolamoyegun/Project---PWC-Call-Centre-Solution-with-Power-BI)](https://github.com/olufemi-builds/Project---PWC-Call-Centre-Solution-with-Power-BI)
 
 ---
 
@@ -174,10 +174,10 @@ Include screenshots or GIFs of your Power BI dashboard here:
 **Olufemi Olamoyegun**  
 Data Analyst | Power BI | SQL | Workforce & Business Analytics  
 
-[LinkedIn](https://www.linkedin.com/in/olufemi-olamoyegun) | [GitHub](https://github.com/olufemiolamoyegun)
+[LinkedIn](https://www.linkedin.com/in/olufemi-olamoyegun) | [GitHub](https://github.com/https://olufemi-builds)
 
 ---
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olufemiolamoyegun&layout=compact)](https://github.com/olufemiolamoyegun)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olufemiolamoyegun&show_icons=true)](https://github.com/olufemiolamoyegun)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olufemiolamoyegun&show_icons=true)](https://github.com/olufemi-builds)
 
