@@ -8,118 +8,158 @@
 
 ---
 
-## 📌 # 📞 PwC Call Centre Solution with Power BI
-
-**Technologies:** Power BI, Power Query, Excel  
+# PwC Call Centre Solution with Power BI
 
 ---
 
-## **Project Overview**
-This project leverages **data analytics to enhance call centre efficiency** and support **data-driven decision-making**.  
-Developed as part of the **PwC Virtual Experience Program – “The Call Centre Solution”**, it simulates a real-world call centre environment with synthetic, portfolio-safe data.  
+## Project Overview
 
-**Business Problem:**  
-Call centres often struggle with **high abandoned calls, long handle times, and inconsistent agent performance**, impacting **customer satisfaction and operational costs**.  
+This project uses Power BI to analyze call centre performance and improve operational efficiency.
 
-**Goal:**  
-Provide actionable insights through **interactive dashboards**, allowing managers to **identify bottlenecks, optimize workforce performance, and improve service quality**.  
+It is based on the PwC Virtual Experience Program and simulates a real call centre environment using 1,500 call records.
+
+The goal is to reduce abandoned calls, improve customer satisfaction, and optimize agent performance using data-driven insights.
 
 ---
 
-## **Dataset**
-- **Records:** 1,500 calls (March 2021)  
-- **Agents:** 10 anonymized (Junior, Senior, Team Lead)  
-- **Regions:** Americas, EMEA, APAC  
-- **Shifts:** Morning / Afternoon / Night  
-- **Call Categories:** Technical (Software/Hardware), Admin (Payroll/Contract), Payment  
-- **KPIs:** Average Speed of Answer (ASA), Average Handle Time (AHT), Customer Satisfaction (CSAT), Resolution Status  
+## Business Problem
+
+Call centres face recurring operational issues:
+
+- High call abandonment rates  
+- Long handling times  
+- Uneven agent performance  
+- Low customer satisfaction during peak periods  
+
+These issues increase cost and reduce service quality.
 
 ---
 
-## **Analysis & Key Insights**
+## Dataset
 
-### 1️⃣ Speed of Answer (ASA)
-- Declined between March 27–31, 2021  
-- **Agents Dan, Becky, Greg contributed most**  
-- Diane and Martha improved response times  
-💡 **Insight:** Targeted coaching can quickly improve ASA  
-
-### 2️⃣ Customer Satisfaction (CSAT)
-- Dropped 82 points between March 26–31  
-- Highest volatility in **Technical & Admin Support**  
-💡 **Insight:** Process improvements in high-traffic categories boost satisfaction  
-
-### 3️⃣ Call Volume & Handling
-- **Total Calls Answered:** 1,150  
-- **Total Calls Abandoned:** 250  
-- **Avg Handle Time (AHT):** 310 sec  
-💡 **Insight:** Aligning shifts and monitoring peak times reduces abandonment  
-
-### 4️⃣ Agent Performance
-| Agent | Role | Total ASA (sec) | Performance Notes |
-|-------|------|----------------|-----------------|
-| Dan   | Junior | 120,000 | Needs coaching |
-| Becky | Senior | 130,000 | Underperforming |
-| Greg  | Junior | 125,000 | Monitor performance |
-| Diane | Junior | 95,000  | Improved efficiency |
-| Martha| Senior | 100,000 | Improved efficiency |
-
-💡 **Insight:** Agent-level analysis allows **targeted coaching and improvement plans**  
+- 1,500 call records (March 2021)  
+- 10 agents (Junior, Senior, Team Lead)  
+- Regions: Americas, EMEA, APAC  
+- Shifts: Morning, Afternoon, Night  
+- Categories: Technical, Admin, Payment  
 
 ---
 
-## **Executive KPI Dashboard**
-| KPI | Value | Status | Insight |
-|-----|-------|--------|--------|
-| Total Calls Answered | 1,150 | 🟢 On Track | High call handling volume |
-| Total Calls Abandoned | 250 | 🔴 Needs Attention | Indicates service gaps |
-| Avg Speed of Answer (ASA) | 92 sec | 🟡 Moderate | Monitoring required |
-| Avg Handle Time (AHT) | 310 sec | 🟡 Moderate | Opportunity to improve efficiency |
-| Customer Satisfaction (CSAT) | 78/100 | 🟡 Moderate | Focus on Technical/Admin categories |
-| High-Risk Agents | Dan, Becky, Greg | 🔴 Needs Coaching | Targeted training recommended |
+## Key KPIs
 
-🟢 = Good | 🟡 = Moderate | 🔴 = Needs Attention  
+- Average Speed of Answer (ASA)  
+- Average Handle Time (AHT)  
+- Customer Satisfaction (CSAT)  
+- Total Calls Answered  
+- Total Calls Abandoned  
 
 ---
 
-## **Solution & Approach**
-- Built **interactive Power BI dashboards** for **KPI monitoring, call trends, and agent performance**  
-- Used **Power Query for ETL** and **Excel for initial dataset profiling**  
-- No SQL or DAX was required—all insights were derived from **Power BI visuals and transformations**  
-- Focused on **operational improvements and actionable insights**, not just reporting  
+## KPI Summary
+
+- Total Calls Answered: 1,150  
+- Total Calls Abandoned: 250  
+- Average ASA: 92 seconds  
+- Average Handle Time: 310 seconds  
+- CSAT Score: 78 / 100  
 
 ---
 
-## **Business Impact**
-- **Cost Management:** Faster handling reduces operational expenses  
-- **Revenue & Retention:** Higher CSAT improves customer loyalty  
-- **Resource Optimization:** Staffing and coaching decisions guided by analytics  
-- **Operational Excellence:** Enables proactive monitoring and continuous improvement  
+## Key Insights
+
+### Call Volume & Abandonment
+
+- 250 calls were abandoned due to delays in response time  
+- Abandonment increases during peak load periods  
+- Higher staffing alignment reduces missed calls  
 
 ---
 
-## **Recommendations**
-1. **Targeted Agent Training & Coaching:** Focus on underperforming agents  
-2. **Customer Support Optimization:** Streamline Technical/Admin workflows  
-3. **KPI Monitoring:** Continuous dashboard review for **real-time decision-making**  
+### Speed of Answer (ASA)
+
+- ASA increases significantly during high call volume periods  
+- A small group of agents contributed to slower response times  
+- Performance varies strongly across agents  
 
 ---
 
-## **Tools Used**
-- **Power BI Desktop:** Interactive dashboards & data modeling  
-- **Power Query:** ETL, cleaning, and data transformation  
-- **Microsoft Excel:** Initial data profiling  
+### Customer Satisfaction (CSAT)
+
+- CSAT drops during periods of long wait times  
+- Technical and Admin categories show lower satisfaction levels  
+- Faster response times improve satisfaction scores  
 
 ---
 
-## **Dashboard Preview**
-Include screenshots or GIFs of your Power BI dashboard here to showcase **interactivity and KPIs**.
+### Agent Performance
 
+- A small number of agents handle a large share of inefficiencies  
+- Performance gaps exist between senior and junior staff  
+- Some agents consistently outperform others in speed and handling time  
 
 ---
 
-## **Portfolio Philosophy**
-Analytics is **not just about charts**—it's about **actionable insights, operational efficiency, and measurable business impact**. This project demonstrates how **data-driven decision-making** can optimize performance, coach teams, and improve customer experience.
+## Agent Performance Snapshot
+
+| Agent | Role | Performance Notes |
+|------|------|------------------|
+| Dan | Junior | Needs improvement in response time |
+| Becky | Senior | Below expected performance level |
+| Greg | Junior | Inconsistent handling performance |
+| Diane | Junior | Improved efficiency over time |
+| Martha | Senior | Strong performance consistency |
+
+---
+
+## Recommendations
+
+- Focus training on slow-response agents  
+- Improve staffing during peak hours  
+- Reduce handling time in Technical and Admin categories  
+- Monitor ASA daily for early detection of delays  
+- Align agent scheduling with demand patterns  
+
+---
+
+## Business Impact
+
+This analysis supports:
+
+- Reduced call abandonment rates  
+- Improved customer satisfaction  
+- Better workforce allocation  
+- Faster response times  
+- Lower operational inefficiencies  
+
+---
+
+## Tools Used
+
+- Power BI → Dashboard development and visualization  
+- Power Query → Data cleaning and transformation  
+- Excel → Data preparation  
+
+---
+
+## Solution Approach
+
+- Built interactive Power BI dashboards for KPI tracking  
+- Cleaned and transformed data using Power Query  
+- Analyzed performance across agents, regions, and time periods  
+- Focused on operational insights rather than static reporting  
+
+---
+
+## Key Outcome
+
+The dashboard enables managers to:
+
+- Identify performance bottlenecks  
+- Monitor real-time call centre KPIs  
+- Improve agent productivity  
+- Reduce service delays  
+- Increase customer satisfaction  
+
 ---
 
 ## 🖼 Dashboard Preview
